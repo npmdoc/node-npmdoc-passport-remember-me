@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/passport-remember-me.png?downloads=true)](https://www.npmjs.com/package/passport-remember-me)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-passport-remember-me/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-passport-remember-me%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-passport-remember-me/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-passport-remember-me/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-passport-remember-me%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-passport-remember-me/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-passport-remember-me/build/screenCapture.npmPackageListing.svg)
 
